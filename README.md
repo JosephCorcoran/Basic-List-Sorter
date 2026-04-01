@@ -7,3 +7,11 @@ This project represents an early stage in my development as a programmer. While 
 
 ## Purpose
 I’ve included this project to highlight my growth over time. It can be compared with my more advanced projects, such as my text editor, which showcases how much I've learned since then.
+
+## How to Use
+- Open the application
+- Press the `Select File` button
+- Load a `.txt` file containing a list of items (one item per line)
+- Press the `Sort` button
+- View the sorted results in the GUI
+- Press the `Save File` button to save the sorted list to a new file (new file will be in the same directory as source file)
